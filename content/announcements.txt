@@ -1,9 +1,3 @@
-<style>
-body {
-  font-family: 'Times New Roman', serif;
-}
-</style>
-
 - Stake Conference
 August 17th 4pm  | Leadership Session
 August 17th 7pm  | Adult Session
