@@ -16,7 +16,7 @@
             .fronthero
             {
                 /* Add image */
-                background-image: url("jesus_teaching_apostles_friends.jpeg");
+                background-image: url("https://assets.churchofjesuschrist.org/fc1c12a28c0f0d4b5eb8be795e693856d8ad71f5.jpeg");
 
                 /* Make image center */
                 background-position: center top;
