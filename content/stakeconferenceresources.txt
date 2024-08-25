@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
+<h3>How to Find Legacy Access to Your Scripture Annotations</h3>
 
 <iframe width="420" height="315" src="https://youtube.com/embed/FDlDnKT474g">
 </iframe>
