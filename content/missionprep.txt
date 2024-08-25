@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-
 <img src="missionprepschedule.png" alt="Mission Prep Schedule" width="482" height="534">
-
 </body>
 </html>
