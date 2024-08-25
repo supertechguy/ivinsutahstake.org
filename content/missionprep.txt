@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<img src="missionprepschedule.png" alt="Mission Prep Schedule" width="460" height="345">
+<img src="missionprepschedule.png" alt="Mission Prep Schedule" width="482" height="534">
 
 </body>
 </html>
