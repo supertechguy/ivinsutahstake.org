@@ -3,7 +3,7 @@
 <body>
 <h3>How to Find Legacy Access to Your Scripture Annotations</h3>
 
-<iframe width="1920" height="1080" src="https://youtube.com/embed/FDlDnKT474g">
+<iframe width="420" height="315" src="https://youtube.com/embed/FDlDnKT474g">
 </iframe>
 
 </body>
